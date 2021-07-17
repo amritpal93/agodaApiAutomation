@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17671" started-at="2021-07-17T15:11:37Z" finished-at="2021-07-17T15:11:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17671" started-at="2021-07-17T15:11:37Z" finished-at="2021-07-17T15:11:55Z">
+      <class name="agoda.apiTestSuite.ApiTest">
+        <test-method status="PASS" signature="initialize_ConfigVariables()[pri:0, instance:agoda.apiTestSuite.ApiTest@81b5db0]" name="initialize_ConfigVariables" is-config="true" duration-ms="63" started-at="2021-07-17T15:11:37Z" finished-at="2021-07-17T15:11:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize_ConfigVariables -->
+        <test-method status="PASS" signature="getBaseConfig()[pri:0, instance:agoda.apiTestSuite.ApiTest@81b5db0]" name="getBaseConfig" is-config="true" duration-ms="686" started-at="2021-07-17T15:11:38Z" finished-at="2021-07-17T15:11:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBaseConfig -->
+        <test-method status="PASS" signature="TC_001_VerifyAllFamousQoutesAuthor()[pri:0, instance:agoda.apiTestSuite.ApiTest@81b5db0]" name="TC_001_VerifyAllFamousQoutesAuthor" duration-ms="5195" started-at="2021-07-17T15:11:38Z" finished-at="2021-07-17T15:11:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_VerifyAllFamousQoutesAuthor -->
+        <test-method status="PASS" signature="getBaseConfig()[pri:0, instance:agoda.apiTestSuite.ApiTest@81b5db0]" name="getBaseConfig" is-config="true" duration-ms="1" started-at="2021-07-17T15:11:48Z" finished-at="2021-07-17T15:11:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBaseConfig -->
+        <test-method status="PASS" signature="TC_002_VerifyAllFamousQoutesPage()[pri:0, instance:agoda.apiTestSuite.ApiTest@81b5db0]" name="TC_002_VerifyAllFamousQoutesPage" duration-ms="1725" started-at="2021-07-17T15:11:48Z" finished-at="2021-07-17T15:11:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002_VerifyAllFamousQoutesPage -->
+      </class> <!-- agoda.apiTestSuite.ApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

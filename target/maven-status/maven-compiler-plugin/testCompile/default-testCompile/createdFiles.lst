@@ -1,0 +1,8 @@
+agoda/resources/EndPoints.class
+agoda/CustomReporter/CustomListener.class
+agoda/core/ConfigGenerator.class
+agoda/core/ConfigDetails.class
+agoda/CustomReporter/ExtentManager.class
+agoda/utils/JsonUtils.class
+agoda/core/UrlProvider.class
+agoda/apiTestSuite/ApiTest.class
